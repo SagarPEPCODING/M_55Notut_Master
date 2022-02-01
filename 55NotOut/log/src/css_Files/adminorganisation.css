@@ -1,0 +1,67 @@
+.name111111 {
+  width: 160px;
+  background: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-word;
+}
+
+.email111111 {
+  width: 190px;
+  background: wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.phonenumber111111 {
+  width: 270px;
+  background: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.usertype111111 {
+  width: 145px;
+  background: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.startingdate111111 {
+  width: 146px;
+  background: burlywood;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-word;
+}
+
+.endingdate111111 {
+  width: 105px;
+  background: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-word;
+}
+
+.FeatureAcess11111111 {
+  width: 85px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: coral;
+}
+
+.FeatureAcess111111 {
+  width: 138px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,14 @@
+.jbprofd {
+  margin-top: 10px;
+  color: cornsilk;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.3rem;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  background: #73b1c5;
+  box-shadow: 0.1px 0.1px 1.3px 1px #8fcadd;
+  justify-content: space-evenly;
+}

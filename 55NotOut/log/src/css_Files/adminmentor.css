@@ -1,0 +1,80 @@
+.name11111 {
+  width: 120px;
+  background: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.email11111 {
+  width: 120px;
+  background: wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.phonenumber11111 {
+  width: 100px;
+  background: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.usertype11111 {
+  width: 150px;
+  background: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.startingdate11111 {
+  width: 273px;
+  background: burlywood;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.endingdate11111 {
+  width: 90px;
+  background: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.eventfeature11111 {
+  width: 90px;
+  background: cadetblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.payment11111 {
+  width: 103px;
+  background: chocolate;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.FeatureAcess111111 {
+  width: 76px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.FeatureAcess11111 {
+  width: 133px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

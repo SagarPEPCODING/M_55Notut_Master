@@ -1,0 +1,311 @@
+.signup_container {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.thisisalreadyexist {
+  display: flex;
+  justify-content: cetner;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-family: emoji;
+  background: red;
+  width: auto;
+}
+
+.seniorprefessional:hover {
+  background-color: white;
+  color: black;
+  /* font-size: 30px; */
+}
+
+.lookingseniorprofessional:hover {
+  background-color: white;
+  color: black;
+}
+
+.typeofusercontainer {
+  /* background: #7a7676; */
+  color: white;
+  display: flex;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 33px;
+  margin-top: 10px;
+}
+
+.seniorprefessional {
+  background: black;
+  margin: 1px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  height: 50px;
+}
+
+.lookingseniorprofessional {
+  background: black;
+  margin: 1px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  height: 50px;
+}
+
+.flex_row {
+  /* display: flex;
+  flex-direction: row;
+  margin: 5px;
+  flex-wrap: wrap; */
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  width: 100%;
+}
+
+.search_input {
+  margin-left: auto;
+  font-size: 14px;
+}
+
+label.flex_row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+input.search_input_user_name {
+  margin-left: auto;
+  font-size: 14px;
+}
+
+input.search_input_age {
+  margin-left: auto;
+  font-size: 16px;
+}
+
+input.search_input_phone_number {
+  margin-left: auto;
+  font-size: 14px;
+}
+
+.form > label {
+  margin: 10px;
+}
+
+.form > label > div {
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.margin_leftcon {
+  margin-left: auto;
+  font-size: 14px;
+}
+
+.MentorContainer {
+  margin: 2px;
+  display: gfle;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: white;
+  /* justify-content: space-around; */
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.MentorContainer:hover {
+  margin: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: rgb(250, 182, 182); */
+  color: black;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.JobseekerContainer {
+  margin: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.JobseekerContainer:hover {
+  margin: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: rgb(250, 182, 182); */
+  color: black;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+div#root {
+  /* width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.modelsignup {
+  padding: 40px 10px 10px 10px;
+  width: 40%;
+}
+
+.maxwidth {
+  width: calc(100% - 15%);
+}
+
+.margin {
+  margin: 10px 0px 10px 0px;
+}
+
+.signupTypeOfContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-left: 8px;
+}
+
+.whichtypeofseniorContainer {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.jmNZGQ {
+  width: 40%;
+  height: 500px;
+  box-shadow: 0 5px 16px rgb(1 1 1 / 50%);
+  background: #fefefea8;
+  color: #000;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  z-index: 100;
+  border-radius: 10px;
+}
+
+.signup_container {
+  border-radius: 10px;
+  /* height: 500px; */
+  width: calc(100% - 70%);
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  box-shadow: 0 5px 16px rgb(0 0 0 / 10%);
+  margin-top: 25px;
+}
+
+.signupContainermm {
+  display: flex;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.signbtn {
+  display: flex;
+  width: 26%;
+  align-items: center;
+  justify-content: cetne;
+  justify-content: center;
+}
+
+.displayflex {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.captcha {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  margin: 10px;
+}
+
+.captchaContainer {
+  margin-top: 17px;
+}
+
+.signuppage {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.usernameContainerofsignup {
+  width: 40px;
+  height: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  /* background: rgb(240, 195, 111); */
+  /* border: 1px solid grey; */
+}
+
+i.fas.fa-user {
+  transform: scale(1);
+}
+
+.seniorprefessional:hover {
+  color: red;
+}
+.MentorContainer:hover {
+  color: red;
+}
+.JobseekerContainer:hover {
+  color: red;
+}
+.lookingseniorprofessional:hover {
+  color: red;
+}

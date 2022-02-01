@@ -1,0 +1,66 @@
+.homebarrelcssEvents {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.sliderContainer {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  margin: 10px;
+  overflow-x: hidden;
+}
+
+.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 2.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.MuiSvgIcon-root:hover {
+  border: 2px solid white;
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 3rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.sliderContainerOfSlick {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+}
+
+.btnshoempage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .btnshoempage {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+} */
+
+.btnandsliderContainer {
+  display: flex;
+  flex-direction: column;
+}

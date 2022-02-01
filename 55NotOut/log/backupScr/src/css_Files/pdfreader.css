@@ -1,0 +1,8 @@
+.contole-panel.m-5.p-3.d-flex.align-items-baseline.justify-content-between {
+  background: white;
+  border-radius: 10px;
+}
+
+section#pdf-section {
+  background: black;
+}

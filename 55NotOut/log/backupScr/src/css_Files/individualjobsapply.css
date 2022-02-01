@@ -1,0 +1,10 @@
+.apliedforthisjobbyU {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: red;
+    font-size: 20px;
+    text-transform: capitalize;
+    width: fit-content;
+    border-radius: 3px;
+}

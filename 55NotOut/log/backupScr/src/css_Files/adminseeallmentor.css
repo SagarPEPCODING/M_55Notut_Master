@@ -1,0 +1,110 @@
+.ejob_id {
+  width: 138px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.2 solid white;
+  border-right: 0.1px solid white;
+}
+
+.eEvent_profile {
+  width: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eEvent_description {
+  width: 104px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eCategory {
+  width: 117px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eEvent_mode {
+  width: 148px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eEvent_Type {
+  width: 87px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eEvent_Starting_date {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eEvent_Ending_date {
+  width: 66px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eEvent_Feature {
+  width: 87px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  text-align: center;
+  border-right: 0.1px solid white;
+}
+
+.ePayment {
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eFeature_access {
+  width: 74px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.eEvent_access {
+  width: 140px;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}

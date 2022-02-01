@@ -1,0 +1,67 @@
+.job_id1 {
+  width: 326px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_profile1 {
+  width: 185px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.seeallevents_container {
+  display: flex;
+  flex-direction: column;
+  /* background-color: rgb(34, 33, 33); */
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+  justify-content: center;
+  align-items: center;
+}
+
+.Event_description1 {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Category1 {
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_mode1 {
+  width: 113px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_Type1 {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_access1 {
+  width: 161px;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}

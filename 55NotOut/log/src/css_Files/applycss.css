@@ -1,0 +1,266 @@
+.applyprofile {
+  /* flex-direction: column; */
+  height: auto;
+  background: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerof.shortlistedornot {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: cneter;
+  align-items: center;
+  margin: 20px;
+  font-size: 40px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.done {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background: aqua;
+  cursor: pointer;
+}
+
+.shortlisted {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.Reject {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: balc;
+  background: black;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.addExperience {
+  /* background: black; */
+  margin: 20px;
+  font-size: 40px;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+}
+
+.addexperiencebtn {
+  margin: 100px;
+  background: black;
+}
+
+.addExperience :hover {
+  background: white;
+  color: black;
+}
+
+.containerprofile {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: calc(100% - 20%);
+  background: beige;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.topcontainer {
+  margin: 10px;
+  height: 150px;
+  background: aqua;
+  display: flex;
+  flex-direction: column;
+}
+
+.bottomcontainer {
+  background: bisque;
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+}
+
+.mybottomcontainer1 {
+  width: calc(100% - 72%);
+  background: #2e2828;
+  margin: 1%;
+}
+
+.mybottomcontainer2 {
+  width: calc(100% - 32%);
+  background: cornsilk;
+  margin: 1%;
+}
+
+.myimgdiv {
+  display: flex;
+  margin: 10px;
+}
+
+img.profileimgofapply {
+  height: 110px;
+  width: 150px;
+}
+
+.profilename {
+  margin-left: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  font-family: emoji;
+}
+
+.intereestedindata {
+  display: flex;
+  color: white;
+  flex-direction: column;
+  border-bottom: 1px solid white;
+}
+
+textarea#myTextarea {
+  display: none;
+}
+
+iframe#viewer {
+  width: 100%;
+  height: auto;
+}
+
+iframe#viewerdescription {
+  width: 100%;
+  height: auto;
+}
+
+textarea#myTextareadescription {
+  display: none;
+}
+
+.interestedinheading {
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.interestedinheadingdata {
+  display: flex;
+  font-size: 25px;
+  border-radius: 3px;
+  justify-content: center;
+  align-items: center;
+}
+
+.realdata {
+  margin: 10px;
+  background: black;
+  width: max-content;
+  border-radius: 5px;
+}
+
+.aboutheadingcontainer {
+  display: flec;
+  display: flex;
+  height: 33px;
+  font-size: 20px;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+}
+
+.mytransferableskillsofseeker {
+  display: flex;
+  margin: 10px;
+  margin-left: 51px;
+  text-transform: capitalize;
+  height: 25px;
+  font-size: 19px;
+  /* background: black; */
+  /* color: white; */
+}
+
+/* ADD */
+
+.addexperienceofjobseeker {
+  height: 200px;
+  background: white;
+  width: calc(100% - 25%);
+  border-radius: 59px;
+}
+
+.addcontianer {
+  margin: 30px;
+}
+
+input.search_inputcompanyExpereience {
+  margin-left: 40px;
+}
+
+input.search_inputCompanyname {
+  margin-left: 40px;
+}
+
+.addcontianer {
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headingexppp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  margin: 10px;
+  font-size: 25px;
+  font-family: monospace;
+}
+
+.expereiceincontainer2 {
+  flex-direction: column;
+  width: calc(100% - 20%);
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  height: 122px;
+  border-radius: 53px;
+}
+
+.companynamejobprovider {
+  margin: 10px;
+  /* width: 71px; */
+  /* background: black; */
+  height: 42px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
+
+.experiencebtn {
+  display: flex;
+  justify-content: center;
+  background: black;
+  color: white;
+  cursor: pointer;
+}

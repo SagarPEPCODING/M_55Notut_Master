@@ -1,0 +1,342 @@
+.product_page {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: auto;
+  background-color: rgb(223, 219, 219);
+  /* z-index: 1; */
+}
+
+.imageinputcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+.imgcontainer {
+  width: 100px;
+  height: 100px;
+}
+
+.uploadbtn {
+  display: flex;
+  background: black;
+  color: white;
+  width: 60px;
+  height: 20px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.product_add {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: auto;
+  align-items: center;
+  /* background-color: rgb(69, 33, 128, 0.9); */
+}
+
+footer.relative.bg-gray-300.pt-8.pb-6 {
+  width: 100%;
+}
+
+.imageinputcontainer > input {
+  overflow: hidden;
+}
+
+.product_Card_store {
+  display: flex;
+  width: 100vw;
+  /* background-color: rgb(69, 33, 128, 0.9); */
+}
+
+.flex_row {
+  display: flex;
+  flex-direction: row;
+}
+
+.product_Card_store {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.addpro {
+  font-size: 30px;
+  font-family: emoji;
+  margin: 26px;
+  color: black;
+}
+
+.labelpro {
+  font-size: 30px;
+  /* background-color: white; */
+  border-radius: 7px;
+  font-family: ui-sans-serif;
+}
+
+.search_inputdescription {
+  margin-left: auto;
+  border-radius: 8px;
+  border: 2px solid grey;
+}
+
+.search_inputpro {
+  margin-left: auto;
+  /* margin-left: 10px; */
+  border-radius: 8px;
+  border: 2px solid grey;
+}
+
+.cardscontainer {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 10px;
+  justify-content: space-evenly;
+  width: calc(100vw - 40px);
+  justify-content: center;
+  align-items: center;
+}
+
+input.search_inputproEventss {
+  margin-left: auto;
+  font-size: 16px;
+  border-radius: 2px;
+}
+
+.search_inputdescriptions {
+  margin-left: auto;
+  font-size: 16px;
+  border-radius: 2px;
+}
+
+.text_decoration {
+  text-decoration: none;
+}
+
+.clr {
+  color: white;
+}
+
+input.search_inputpro {
+  /* margin-left: 43px; */
+}
+
+.search_inputimageurl {
+  margin-left: 29px;
+  border-radius: 8px;
+  border: 2px solid grey;
+}
+
+.search_inputimageurltalent {
+  margin-left: 61px;
+  border-radius: 8px;
+  border: 2px solid grey;
+}
+
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.search_inputdescription {
+  width: 171px;
+}
+
+.MuiFormControl-root.MuiTextField-root.EventTime {
+  width: 133px;
+}
+
+.search_inputproMentor {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+
+.search_inputprojob {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+
+.search_inputproEvents {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+
+.search_inputdescriptionproduct {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+.search_inputproTalent {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+
+.input.search_inputimageurl {
+  margin-left: 61px;
+}
+
+.input.search_inputpro {
+  margin-left: 92px;
+}
+
+.input.search_inputpro {
+  margin-left: 92px;
+}
+
+.input.search_inputpro {
+  margin-left: 43px;
+}
+
+.input.search_inputpro {
+  margin-left: 21px;
+}
+
+.input.search_inputdescription {
+  margin-left: 51px;
+}
+
+.input.search_inputpro {
+  margin-left: 97px;
+}
+
+.input.search_inputdescription {
+  margin-left: 24px;
+}
+
+.input.search_inputpro {
+  margin-left: 42px;
+}
+
+.search_inputimageurlOrganisation {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+
+.search_inputimageurlMentor {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+
+.search_inputimageurlJob {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+
+.search_inputimageurlEvents {
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 2px solid grey;
+  margin-left: auto;
+}
+
+.drop_down_width {
+  width: 100px;
+}
+
+.MuiSelect-select.MuiSelect-select {
+  padding-left: 3px;
+}
+
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.search_inputdescription.drop_down_width {
+  /* width: 142px; */
+  width: auto;
+}
+
+.MuiFormControl-root {
+  margin-left: auto;
+  width: auto;
+}
+
+label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-animated {
+  margin-bottom: 6px;
+  border-bottom: 1px solid black;
+}
+
+input.search_inputdescriptionCompanyExperience {
+  border: white;
+  margin-left: 10px;
+  /* border: 2px solid; */
+  /* border: 2px solid red; */
+  /* width: auto; */
+  /* width: fit-content; */
+  width: 43px;
+  margin: 12px;
+}
+
+.search_endingdate {
+  margin-left: auto;
+}
+
+.search_inputEventurlEvents {
+  margin: auto;
+  width: 380px;
+  margin-left: auto;
+  height: 30px;
+  border: 2px solid white;
+  /* color: yellowgreen; */
+  background-color: aliceblue;
+  /* width: max-content; */
+}
+
+.divurl {
+  font-weight: 500;
+  font-size: 22px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.EventTime {
+}
+
+.filter {
+  width: calc(100% - 40px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.filterheading {
+  /* width: 100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5rem;
+  font-size: 35px;
+}
+
+.labelpro {
+  margin-left: 10px;
+}
+
+.filtercategory {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+a.text_decoration.clr {
+  text-transform: uppercase;
+}

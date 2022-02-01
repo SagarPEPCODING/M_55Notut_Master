@@ -1,0 +1,17 @@
+.jbbodyextylo.margintopjb {
+  height: 5rem;
+}
+
+.jbbodyextylo.margintopjb {
+  height: 5rem;
+  padding: 0.2rem;
+}
+
+.bodycontc {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 75%;
+  /* background: #f4e4cef0; */
+  border-radius: 0.2rem;
+}

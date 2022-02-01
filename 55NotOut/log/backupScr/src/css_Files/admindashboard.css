@@ -1,0 +1,42 @@
+.admindashboardcontainer {
+  background-color: #202020;
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+
+.cardlistingcontainer {
+  width: calc(100% - 77%);
+  background-color: hsl(203, 85%, 18%);
+  margin: 10px;
+  margin-top: 100px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.featurelisting {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 57px;
+  font-size: 25px;
+  font-family: cursive;
+  color: white;
+  margin-bottom: 1px solid black;
+  border-bottom: 1px solid black;
+  cursor: pointer;
+}
+
+.featurelisting:hover {
+  background-color: hsl(202, 90%, 4%);
+}
+
+.showingdata {
+  margin-top: 100px;
+}
+
+.containerOfUsers {
+  width: 100%;
+}
+

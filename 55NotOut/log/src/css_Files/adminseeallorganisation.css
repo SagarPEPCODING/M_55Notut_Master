@@ -1,0 +1,117 @@
+.headercontainer11 {
+  height: 50px;
+  display: flex;
+  margin: 1px;
+  border-top: 1px solid;
+  border-left: 1px solid;
+}
+
+.job_id1111 {
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.2px solid white;
+}
+
+.Event_profile {
+  width: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.Event_description {
+  width: 104px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.Category {
+  width: 117px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.Event_mode {
+  width: 111px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.Event_Type1111 {
+  border-right: 0.2px solid white;
+  display: flex;
+  width: 175px;
+  word-break: break-word;
+  justify-content: center;
+  align-items: center;
+}
+
+.Event_Starting_date {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.Event_Ending_date {
+  width: 66px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.Event_Feature {
+  width: 87px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  text-align: center;
+  border-right: 0.1px solid white;
+}
+
+.Payment {
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.Feature_access {
+  width: 74px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}
+
+.Event_access {
+  width: 140px;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 0.1px solid white;
+}

@@ -1,0 +1,43 @@
+.seeAlljobProviderJobs {
+  width: auto;
+  margin: 10px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  flex-wrap: wrap;
+}
+
+.cardjobsposted {
+  margin: 17px;
+  background: antiquewhite;
+}
+
+.jobidofpostedjob {
+  font-size: 26px;
+}
+
+.jobprofileofpostedjob {
+  font-size: 26px;
+}
+
+.companylocationofpostedjob {
+  font-size: 26px;
+}
+
+.applicationfeatures {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.totalappications {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  text-decoration: underline;
+  color: blue;
+}

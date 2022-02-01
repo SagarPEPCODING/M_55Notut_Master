@@ -1,0 +1,16 @@
+.apliedforthisjobbyU {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: red;
+  font-size: 20px;
+  text-transform: capitalize;
+  width: fit-content;
+  border-radius: 3px;
+  font-size: 16px;
+  color: white;
+  box-sizing: border-box;
+  padding: 3px;
+  margin: 3px;
+  margin-bottom: 5px;
+}

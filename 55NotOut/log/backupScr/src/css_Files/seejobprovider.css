@@ -1,0 +1,313 @@
+.jobproviderfeatures {
+  width: 100%;
+  background: #e1d8d8;
+  height: 235px;
+}
+
+.jobproviderfeatures {
+  width: 100%;
+  background: #e1d8d8;
+  height: 235px;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #b9b6b6;
+}
+
+.jobfeaturescard {
+  border: 1px solid;
+  width: calc(80% - 60%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.interviewsCotainer {
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+}
+
+.interviewHeading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  background: #eeb870;
+  color: white;
+}
+
+.intervirewdetailscontainer {
+  display: flex;
+  display: flex;
+  flex-direction: row;
+}
+
+.emialofseeker {
+  margin: 10px;
+  display: flex;
+}
+
+.Emailidofseekerheading {
+  margin-right: 35px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ansofjobseeker {
+  font-size: 18px;
+}
+
+.timecontainer {
+  display: flex;
+  margin: 10px;
+}
+
+.timeheading {
+  margin-right: 36px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.andtimingcontainer {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.myheadingofContainer {
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  background: #cdb99b;
+  color: white;
+  margin: 10px;
+}
+
+.newapplicationscontainer {
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.newapplicationdatacontainer {
+  margin: 5px;
+  width: 222px;
+}
+
+.applicationidheader {
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.ansapplicationid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  font-family: monospace;
+}
+
+.newapplicationdatacontainer {
+  margin: 5px;
+  width: 222px;
+}
+
+.jobidheader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.Jobid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  font-family: monospace;
+}
+
+.EmailIdOfJBcontainer {
+  margin: 5px;
+  width: 222px;
+  word-break: break-all;
+}
+
+.EmailIdOfJBheader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.EmailIdOfJBans {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  font-family: monospace;
+}
+
+.shortlistedornotcontainer {
+  margin: 5px;
+  width: 222px;
+}
+
+.shortlistedornotJBheader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.shortlistedornotans {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  font-family: monospace;
+}
+
+.interviewdatecontainer {
+  margin: 5px;
+  width: 222px;
+}
+
+.interviewdateJBheader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.interviewdateans {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  font-family: monospace;
+}
+
+.interviewtimecontainer {
+  margin: 5px;
+  width: 222px;
+}
+
+.interviewtimeheader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-family: emoji;
+}
+
+.interviewtimeans {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  font-family: monospace;
+}
+
+.myheadingofContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  background: #cdb99b;
+  color: white;
+  margin: 10px;
+}
+
+.SortlistedCandidatesContainer {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  margin: 34px;
+}
+
+.Shortlisteddatacontainer {
+  margin: 10px;
+  font-size: 20px;
+  font-family: 'Font Awesome 5 Pro';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.EmailIdContainerOfJobSeeker {
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  margin: 10px;
+  justify-content: center;
+  word-break: break-word;
+  font-family: 'Font Awesome 5 Brands';
+}
+
+.cadidatescontainer {
+  background: black;
+  color: white;
+  margin: 15px;
+  font-family: cursive;
+  font-size: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headingContainerOfCandidatesRe {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background: aliceblue;
+  font-size: 18px;
+  font-family: monospace;
+  margin: 2px;
+  word-break: break-all;
+  cursor: pointer;
+}
+
+.ApplicationIdHeading {
+  width: 380px;
+  word-break: break-word;
+  margin-left: 69px;
+}
+
+.jobseekerheading {
+  width: 362px;
+  word-break: break-word;
+}
+
+.CompanyEmail {
+  width: 300px;
+  word-break: break-word;
+}
+
+.headingContainerOfCandidatesRef {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background: aliceblue;
+  font-size: 18px;
+  font-family: monospace;
+  margin: 2px;
+  word-break: break-all;
+  cursor: pointer;
+}

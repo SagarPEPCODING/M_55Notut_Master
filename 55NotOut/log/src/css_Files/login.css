@@ -1,0 +1,105 @@
+.login_container {
+  height: 100vh;
+  width: 100vw;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.myLoginContainer {
+  width: calc(100% - 70%);
+  height: calc(100% - 20%);
+  max-height: 400px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: grey; */
+  padding: 20px;
+  margin-top: 25px;
+  box-shadow: 0 5px 16px rgb(0 0 0 / 10%);
+  border-radius: 10px;
+}
+
+.transform {
+  transform: scale(15px);
+}
+
+.lockopeniconContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnlogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form.flex.form {
+  /* margin: auto; */
+  display: flex;
+  width: calc(100% - 20%);
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.btnloginContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex_row {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+
+.auth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search_input {
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+.form > label {
+  margin: 10px;
+}
+
+.form > label > div {
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.margin_left {
+  margin-left: auto;
+  font-size: 14px;
+}
+
+.margin_leftcon {
+  margin-left: 21px;
+  font-size: 16px;
+}

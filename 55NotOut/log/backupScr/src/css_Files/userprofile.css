@@ -1,0 +1,392 @@
+.topbanner {
+  margin-top: 0px;
+  width: 100%;
+  height: 95px;
+  background: rgb(233, 186, 99);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.jobsforwhichapplied.appliedforjobs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: white;
+  font-size: 30px;
+  font-family: monospace;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.jobsforwhichapplied:hover {
+  background-color: cadetblue;
+  cursor: pointer;
+}
+
+.about_yourself {
+  color: white;
+}
+
+.topbannerlogo {
+  width: calc(100% - 80%);
+  border-right: 2px solid black;
+  display: flex;
+  justify-content: center;
+  font-size: 1rem;
+  word-break: break-word;
+  align-items: center;
+}
+
+.topbanneradd {
+  width: calc(100% - 50%);
+  border-right: 2px solid black;
+}
+
+.topbannerLoginSignup {
+  width: calc(100% - 70%);
+  display: flex;
+  justify-content: center;
+  margin: 1px;
+}
+
+.userProfileContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.containerSiderbar {
+  width: calc(100% - 80%);
+  /* background-color: orange; */
+  display: flex;
+  flex-direction: column;
+  border-right: 2px solid grey;
+}
+
+.containerUserprofile {
+  width: calc(100% - 20%);
+  /* background-color: orange; */
+}
+
+.btns1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mydata.jobseeker.applied {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  background: #ddd1d1;
+  width: 100%;
+  border-radius: 20px;
+  font-size: 26px;
+}
+
+.marginjobseeker {
+  margin: 5px;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained {
+  margin-bottom: 10px;
+}
+
+.profileimg {
+  height: 200px;
+  width: 100%;
+  background-color: rgb(8, 8, 8);
+}
+
+.compe {
+  margin-top: 10px;
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  background-color: #babbbb;
+}
+
+.interested {
+  display: flex;
+  flex-direction: column;
+}
+
+.MuiFormControl-root {
+  width: 200px;
+}
+
+/* .selectinterestedin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.usernameContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  /* background: rgb(240, 195, 111); */
+  border: 1px solid grey;
+}
+
+.name1 {
+  width: 100%;
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: 'FontAwesome';
+  text-transform: capitalize;
+}
+
+.btncontainer1 {
+  margin-top: 6px;
+}
+
+.about_yourself {
+  /* width: calc(100% - 50%); */
+  /* width: 100%; */
+  margin-top: 10px;
+  height: 2rem;
+  /* border: 1px solid grey; */
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  font-size: 1rem;
+  margin: 10px;
+  background-color: #282829;
+}
+
+.btncontainer1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.selectinterestedin {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  font-size: 1rem;
+  word-break: break-word;
+}
+
+.content_viewer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  /* border-bottom: 2px solid grey; */
+}
+
+.content {
+  width: 500px;
+  font-size: 16px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.content {
+  margin-top: 10px;
+  width: calc(100% - 10%);
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.CompetenciesContaner {
+  width: 100%;
+  height: 100px;
+  background: lavender;
+}
+
+/* .MuiChip-root {
+  display: flex;
+  flex-direction: column;
+  margin: 2px;
+  word-break: break-word;
+} */
+
+.MuiChip-root {
+  color: rgba(0, 0, 0, 0.87);
+  border: none;
+  cursor: default;
+  height: 32px;
+  display: flex;
+  outline: 0;
+  padding: 0;
+  font-size: 0.8125rem;
+  box-sizing: border-box;
+  transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  align-items: center;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  white-space: nowrap;
+  border-radius: 16px;
+  vertical-align: middle;
+  justify-content: center;
+  text-decoration: none;
+  background-color: #e0e0e0;
+  margin: 0.1rem;
+}
+
+textarea.md-textarea.form-control {
+  height: 3rem;
+  font-size: 20px;
+}
+
+.textusername {
+  height: 30px;
+  width: 200px;
+}
+
+.savebtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+}
+
+.linkedin {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  font-size: 1rem;
+}
+
+.blogwebsite {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  font-size: 1rem;
+}
+
+.calendly {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.loginedusername {
+  font-size: 10px;
+  display: flex;
+  word-break: break-word;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+}
+
+.content_viewer .toolbarClassName {
+  display: none;
+}
+
+.detailscontainer {
+  display: flex;
+  display: flex;
+  flex-direction: row;
+}
+
+.firstcontainerofjbseeker {
+  display: flex;
+  flex-direction: row;
+}
+
+.secondContainershortliste {
+  margin-top: 35px;
+  width: auto;
+  height: 300px;
+  background: #fcdddd;
+}
+
+.shortlisted {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.interviewdate {
+  display: flex;
+}
+
+.yesornorshort {
+  margin-right: 20px;
+}
+
+.interviewtime {
+  display: flex;
+}
+
+.emailofjobprovider {
+  display: flex;
+}
+
+.uploadButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  background: #cdc5c5;
+  color: white;
+  margin: 2px;
+  cursor: pointer;
+}
+
+.uploadButton:hover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  background: #cdc5c5;
+  color: white;
+  margin: 0px;
+  cursor: pointer;
+}
+
+.MuiButton-root {
+  color: rgba(0, 0, 0, 0.87);
+  padding: 6px 16px;
+  font-size: 0.675rem;
+  min-width: 52px;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  font-weight: 100;
+  border-radius: 4px;
+  letter-spacing: 0.01rem;
+  text-transform: uppercase;
+}
+
+label {
+  font-size: 0.9rem;
+  display: inline-block;
+  margin-bottom: 0.1rem;
+}
+
+.selectionoftopthreeskills
+  .MuiInputBase-root.MuiInput-root.MuiInput-underline.demo-mutiple-chip.MuiInputBase-formControl.MuiInput-formControl {
+  width: 30rem;
+}
+
+.displayincolumn {
+  display: flex;
+  flex-direction: column;
+  margin: 0.1rem;
+}

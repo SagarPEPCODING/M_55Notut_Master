@@ -1,0 +1,31 @@
+.usertype111 {
+    width: 347px;
+    background: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.phonenumber111 {
+    width: 310px;
+    background: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email111 {
+    width: 235px;
+    background: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name1111 {
+    width: 307px;
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

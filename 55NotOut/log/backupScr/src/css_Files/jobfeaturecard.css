@@ -1,0 +1,15 @@
+.jobfeaturescard {
+  flex-direction: column;
+  border: 1px solid;
+  width: calc(80% - 60%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stringoffeature {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 224px;
+}

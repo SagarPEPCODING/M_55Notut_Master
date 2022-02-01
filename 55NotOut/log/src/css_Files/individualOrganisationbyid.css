@@ -1,0 +1,284 @@
+.jobContainer.displayflexJob {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    /* background: #fffdfda1; */
+  }
+  
+  .singlejobpageContainer {
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 20%);
+  }
+  
+  .firstContainer {
+    display: flex;
+    flex-direction: column;
+    /* background: beige; */
+    background: #e3e2e275;
+    margin: 1rem;
+    padding: 0.9rem;
+    width: calc(100% - 30%);
+    border-radius: 7px;
+    box-shadow: 1px 1px 5px 1px #cdcaca;
+  }
+  
+  .secondContainer {
+    display: flex;
+    margin: 1rem;
+    padding: 0.9rem;
+    /* background: lavenderblush; */
+    background: #e3e2e236;
+    width: calc(100% - 70%);
+    flex-direction: column;
+    height: auto;
+    border-radius: 7px;
+    box-shadow: 9px 3px 2px 2px #e3e2e236;
+  }
+  
+  .jbdescrheCont {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+  }
+  
+  .jbCompaName {
+    display: flex;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.2rem;
+  }
+  
+  .dash {
+    padding: 0.2rem;
+    font-size: 1.2rem;
+  }
+  
+  .jbtypeCont {
+    display: flex;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.2rem;
+  }
+  
+  .firstContainerjobdescpart2 {
+    display: flex;
+    margin-top: 0.6rem;
+  }
+  
+  .widthsndcomp {
+    width: 10rem;
+  }
+  
+  .langreq {
+    width: 12rem;
+  }
+  
+  .fontsixe08rem {
+    font-size: 0.8rem;
+  }
+  
+  .comptypo.widthsndcomp.fontsixe08rem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+      Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  .firstContainerjobdescpart2 {
+    display: flex;
+    margin-top: 0.6rem;
+    background: white;
+    border-radius: 3px;
+  }
+  
+  .fontsixe08rem {
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+      Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .aboutCompCont {
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+  }
+  
+  .aboutCom {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .aboutCompans {
+    display: flex;
+    margin: 0.2rem;
+  }
+  
+  .aboutRoleCont {
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+  }
+  
+  .aboutRole {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .reqskillsComp {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .reqsoftskillsComp {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .ansreqskillsComp {
+    display: flex;
+    margin: 0.2rem;
+    text-transform: capitalize;
+  }
+  
+  .ansreqsoftskillsComp {
+    display: flex;
+    margin: 0.2rem;
+  }
+  
+  .ReqSkillsContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+  }
+  
+  .ReqSoftSkillsContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+  }
+  
+  .imgContainerjbs {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  img.imagejobindi {
+    margin: 0.4rem;
+    width: calc(100% - 10%);
+    height: 7rem;
+    padding: 0.1rem;
+  }
+  
+  .divofimg {
+    width: 12rem;
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  .headingpostedby {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .andpostedby {
+    display: flex;
+    margin: 0.2rem;
+    margin-left: 0.6rem;
+    text-transform: capitalize;
+  }
+  
+  .jobcodeheading {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .ansJobcode {
+    display: flex;
+    margin: 0.2rem;
+    margin-left: 0.6rem;
+    flex-wrap: wrap;
+    word-break: break-all;
+  }
+  
+  .locationheading {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .anslocation {
+    display: flex;
+    margin: 0.2rem;
+    margin-left: 0.6rem;
+  }
+  
+  .postedonheading {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .postedon {
+    display: flex;
+    margin: 0.2rem;
+    margin-left: 0.6rem;
+  }
+  
+  .viewsheading {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .viewson {
+    display: flex;
+    margin: 0.2rem;
+    margin-left: 0.6rem;
+  }
+  
+  .applicationheading {
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-family: auto;
+    padding: 0.1rem;
+  }
+  
+  .applicationon {
+    display: flex;
+    margin: 0.2rem;
+    margin-left: 0.6rem;
+  }
+  
+  .fontweight {
+    font-weight: 600;
+  }
+  

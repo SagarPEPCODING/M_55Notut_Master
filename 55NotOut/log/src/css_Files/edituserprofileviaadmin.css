@@ -1,0 +1,60 @@
+form.editflexviaadmin {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+label.editflexviaadminusername {
+  display: flex;
+  width: 100%;
+}
+
+label.editflexviaadminuserEmail_id {
+  display: flex;
+  width: 100%;
+}
+
+label.editflexviaadminuserPassword {
+  display: flex;
+  width: 100%;
+}
+
+label.editflexviaadminuserPhoneNumber {
+  display: flex;
+  width: 100%;
+}
+
+input.search_user_name {
+  height: 50px;
+  width: 500px;
+  margin: 10px;
+  margin-left: 192px;
+}
+
+input.searchinput {
+  margin: 10px;
+  height: 50px;
+  width: 500px;
+  margin-left: 50px;
+}
+
+input.marginleft {
+  height: 50px;
+  width: 500px;
+  margin: 10px;
+  margin-left: 219px;
+}
+
+input.searchinput_phone_number {
+  margin: 10px;
+  width: 500px;
+  height: 50px;
+  margin-left: 115px;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.flexrow.MuiButton-containedSecondary {
+  margin: 15px;
+  margin-left: 336px;
+}

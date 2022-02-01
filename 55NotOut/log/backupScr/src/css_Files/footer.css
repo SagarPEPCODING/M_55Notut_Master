@@ -1,0 +1,24 @@
+.container.mx-auto.px-4 {
+  background: #0f0d0ded;
+  color: white;
+}
+
+h4.text-3xl.font-semibold {
+  font-size: 30px;
+}
+
+h5.text-lg.mt-0.mb-2.text-gray-700 {
+  font-size: 20px;
+}
+
+.mt-6.lg:mb-0.mb-6 {
+  display: none;
+}
+
+.flex.flex-wrap.items-top.mb-6 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

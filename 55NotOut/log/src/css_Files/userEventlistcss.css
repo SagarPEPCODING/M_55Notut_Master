@@ -1,0 +1,89 @@
+.containerOfUsers {
+  /* height: calc(100% - 20%); */
+  width: calc(100% - 28%);
+  margin: 1px;
+  border: 2px solid grey;
+  display: flex;
+  flex-direction: row;
+}
+
+.name11 {
+  width: 10rem;
+  background: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.email1 {
+  width: 11rem;
+  background: wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.phonenumber1 {
+  width: 8rem;
+  background: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.usertype1 {
+  width: 8rem;
+  background: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.startingdate1 {
+  width: 11rem;
+  background: burlywood;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.endingdate1 {
+  width: 11rem;
+  background: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.eventfeature {
+  width: 8rem;
+  background: cadetblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.payment {
+  width: 8rem;
+  background: chocolate;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.FeatureAcess {
+  width: 8rem;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  flex-wrap: wrap;
+}

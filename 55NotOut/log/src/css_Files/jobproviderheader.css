@@ -1,0 +1,29 @@
+.jobprovidercom {
+  margin-left: 34px;
+}
+
+.jobproviderheaderdashboard {
+  display: flex;
+  /* display: flex; */
+  flex-direction: column;
+  width: fit-content;
+  margin: 10px;
+  font-size: 15px;
+}
+
+.headerofjob_provider {
+  /* width: fit-content; */
+  /* background: aqua; */
+  /* margin: 5px; */
+  width: 100%;
+  background: black;
+  color: white;
+}
+
+.containerOfJobProvider {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 100%;
+}
+

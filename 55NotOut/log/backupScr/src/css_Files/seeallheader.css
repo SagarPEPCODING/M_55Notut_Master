@@ -1,0 +1,96 @@
+.seeallbtnheadercontainer {
+  width: 100%;
+  background: #212529;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px 2px 2px 2px;
+}
+
+.seeallContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  justify-items: center;
+  align-items: center;
+  width: 90%;
+}
+
+.addevent {
+  cursor: pointer;
+  color: white;
+}
+
+.userprofile {
+  cursor: pointer;
+  color: white;
+}
+
+.seeallContainer {
+  color: white;
+}
+
+@media screen and (max-width: 666px) {
+  .seeallContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    padding: 1rem;
+    width: 100%;
+    font-size: 0.8rem;
+  }
+}
+
+/* 884 */
+
+@media screen and (max-width: 884px) {
+  .seeallContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    padding: 1rem;
+    width: 100%;
+    font-size: 0.8rem;
+  }
+}
+
+/* 500 */
+
+@media screen and (max-width: 500px) {
+  .seeallContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    padding: 1rem;
+    width: 100%;
+    font-size: 0.4rem;
+  }
+}
+
+/* 1119 */
+
+@media screen and (max-width: 1119px) {
+  .hc4 {
+    display: flex;
+    width: 14rem;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.8rem;
+  }
+}
+
+.addmentor {
+  cursor: pointer;
+}
+
+.addorganisation {
+  cursor: pointer;
+}

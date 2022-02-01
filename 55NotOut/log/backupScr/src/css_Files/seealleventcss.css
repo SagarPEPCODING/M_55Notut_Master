@@ -1,0 +1,117 @@
+.seeallevents_container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(34, 33, 33);
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.headercontainer11{
+    height: 50px;
+    display: flex;
+    margin: 1px;
+}
+
+.headercontainer1 {
+  display: flex;
+  border: 1px solid white;
+  margin: 1px;
+}
+
+.Event_access {
+  width: 161px;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Feature_access {
+  width: 95px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Payment {
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_Feature {
+  width: 97px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_Ending_date {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_Starting_date {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_Type {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_mode {
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Category {
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_description {
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.Event_profile {
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.job_id {
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}

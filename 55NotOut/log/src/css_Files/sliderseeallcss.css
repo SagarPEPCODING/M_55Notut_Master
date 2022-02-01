@@ -1,0 +1,39 @@
+.mydataimage {
+  width: calc(100% - 60%);
+  margin: 0.2rem;
+  /* justify-content: center; */
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.containerOfAllImages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img.imgsrc {
+  height: 150px;
+  width: 150px;
+}
+
+.nameimage {
+  display: flex;
+  font-size: 1rem;
+  font-family: inherit;
+  margin: 0.5rem;
+}
+
+.cross {
+  font-size: 25px;
+  display: flex;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}

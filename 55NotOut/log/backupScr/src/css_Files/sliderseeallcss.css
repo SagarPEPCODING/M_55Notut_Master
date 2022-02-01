@@ -1,0 +1,30 @@
+.mydataimage {
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+img.imgsrc {
+  height: 100%;
+  width: 20%;
+}
+
+.nameimage {
+  display: flex;
+  font-size: 25px;
+  font-family: inherit;
+  margin: 30px;
+}
+
+.cross {
+  font-size: 25px;
+  display: flex;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}

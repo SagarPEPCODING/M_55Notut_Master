@@ -1,0 +1,62 @@
+.contentcontainer {
+  width: calc(100% - 30%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.staticpageContainer {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+textarea.textareaofdescription {
+  width: calc(100% - 20%);
+  height: calc(100vh - 50vh);
+}
+
+.writehtmlcode {
+  display: flex;
+  justify-content: black;
+  color: white;
+  font-weight: 700;
+  background: black;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  margin-left: calc(100% - 59%);
+}
+
+.btn {
+  /* background: red; */
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  font-weight: 800;
+  /* margin-left: calc(100% - 55%); */
+  margin-bottom: 10px;
+}
+
+.contentcontainertitle {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.contentmetatag {
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+}
+
+h2.description {
+  margin-top: 20px;
+}

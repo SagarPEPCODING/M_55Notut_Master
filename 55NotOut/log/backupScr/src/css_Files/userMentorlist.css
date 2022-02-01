@@ -1,0 +1,75 @@
+.name111 {
+    width: 120px;
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email11 {
+    width: 120px;
+    background: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.phonenumber11 {
+    width: 100px;
+    background: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.usertype11 {
+    width: 150px;
+    background: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startingdate11 {
+    width: 300px;
+    background: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+ .endingdate11 {
+    width: 90px;
+    background: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eventfeature1 {
+    width: 90px;
+    background: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment1 {
+    width: 105px;
+    background: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FeatureAcess1 {
+    width: 123px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: coral;
+}

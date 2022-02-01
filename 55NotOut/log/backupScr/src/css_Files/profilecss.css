@@ -1,0 +1,139 @@
+.profilepage {
+  margin-top: 70px;
+}
+
+.profile_page {
+  width: 100vw;
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+  /* margin-top: 70px; */
+}
+
+.event_body {
+  flex-wrap: wrap;
+  height: auto;
+}
+
+.homebarrelcss {
+  flex-wrap: wrap;
+}
+
+.header {
+  width: 100vw;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+
+  /* background color */
+
+  background: rgb(135, 224, 253);
+  background: -moz-linear-gradient(
+    top,
+    rgba(135, 224, 253, 1) 37%,
+    rgba(5, 171, 224, 1) 59%,
+    rgba(135, 224, 253, 1) 86%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    top,
+    rgba(135, 224, 253, 1) 37%,
+    rgba(5, 171, 224, 1) 59%,
+    rgba(135, 224, 253, 1) 86%
+  );
+  background: linear-gradient(
+    to bottom,
+    rgba(135, 224, 253, 1) 37%,
+    rgba(5, 171, 224, 1) 59%,
+    rgba(135, 224, 253, 1) 86%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87e0fd', endColorstr='#87e0fd',GradientType=0 );
+}
+
+.logo {
+  width: calc(100vw - 92vw);
+  /* margin-top: 10px; */
+}
+
+.btncontainer {
+  width: calc(100vw - 16vw);
+}
+
+.login_signup_btns {
+  width: calc(100vw - 83vw);
+}
+
+.logsignbtns {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+
+.event_body {
+  width: 100vw;
+  margin-top: 24px;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.event_body_heading {
+  color: #979696;
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  margin-top: 12px;
+}
+
+.see_more {
+  /* border: 2px solid black; */
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
+
+.logo > img {
+  height: 80px;
+  width: 90px;
+  margin-left: 10px;
+}
+
+.headerContainer {
+  box-shadow: rgb(0 0 0 / 4%) 0px 5px 6px;
+}
+.fontsize {
+  font-size: 0.8rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  font-weight: normal;
+  text-transform: none;
+  vertical-align: middle;
+  color: rgb(68, 68, 68);
+  border-radius: 5px;
+  margin: 0.2rem 0.15rem;
+  padding: 0px 0.5rem;
+  height: 1.5rem;
+  background: inherit;
+}
+.hc1 {
+  width: 200px;
+  display: flex;
+  box-sizing: border-box;
+  text-align: left;
+  padding-left: 20px;
+}
+.hc4 {
+  width: 100px;
+  color: red;
+}

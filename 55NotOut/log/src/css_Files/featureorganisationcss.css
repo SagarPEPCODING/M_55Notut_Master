@@ -1,0 +1,72 @@
+.name1111 {
+    width: 150px;
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email111 {
+    width: 150px;
+    background: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.phonenumber111 {
+    width: 310px;
+    background: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.usertype111 {
+    width: 140px;
+    background: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.startingdate111 {
+    width: 101px;
+    background: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: break-word;
+}
+
+
+.endingdate111 {
+    width: 90px;
+    background: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: break-word;
+}
+
+
+
+.FeatureAcess11 {
+    width: 100px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: coral;
+}
+
+
+.FeatureAcess1 {
+    width: 149px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

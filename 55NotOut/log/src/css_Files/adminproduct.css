@@ -1,0 +1,71 @@
+.Event_description1 {
+  width: 184px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+}
+
+.job_id1 {
+  width: 219px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 1px solid white;
+}
+
+.Event_access1 {
+  width: 161px;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 1px solid white;
+}
+
+.Event_Type1 {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 1px solid white;
+}
+
+.Event_mode1 {
+  width: 113px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 1px solid white;
+}
+
+.Category1 {
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 1px solid white;
+}
+
+.Event_description1 {
+  width: 184px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 1px solid white;
+}
+
+.Event_profile1 {
+  width: 185px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-break: break-all;
+  border-right: 1px solid white;
+}

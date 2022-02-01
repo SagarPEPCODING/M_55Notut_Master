@@ -1,0 +1,87 @@
+.headingofeachcard {
+  font-size: 2rem;
+  font-family: auto;
+}
+
+.postedcardContainer {
+  box-sizing: border-box;
+  display: flex;
+  width: 65rem;
+  border: 0.1px solid lightgrey;
+  margin: 0.5rem;
+}
+
+.cardofeachposted {
+  margin: 0.2rem;
+  padding: 0.2rem;
+}
+
+.postedcardContainer {
+  box-sizing: border-box;
+  display: flex;
+  width: 65rem;
+  border: 0.1px solid lightgrey;
+  margin: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.userProfileContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.cardofeachposted {
+  margin: 0.2rem;
+  padding: 0.2rem;
+}
+
+.cardofeachpostedEventprofile {
+  width: 10rem;
+  box-sizing: border-box;
+}
+
+.cardofeachpostedeventprofile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 0.05rem;
+  background: aliceblue;
+  border: 1.16rem;
+}
+
+.cardofeachpostedeventprofile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* overflow: hidden; */
+  word-break: break-all;
+  padding: 0.05rem;
+  background: aliceblue;
+  border: 1.16rem;
+}
+
+.eachcardEvent_mode {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  /* overflow-x: hidden; */
+  word-break: break-all;
+  padding: 0.05rem;
+  background: #a9a9a938;
+}
+
+.editbtn {
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.05rem;
+  background: black;
+  color: white;
+  cursor: pointer;
+  margin: 0.5rem;
+}

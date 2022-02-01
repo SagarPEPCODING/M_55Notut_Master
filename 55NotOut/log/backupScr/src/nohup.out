@@ -1,0 +1,4 @@
+npm ERR! missing script: server
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ec2-user/.npm/_logs/2021-03-11T09_41_48_260Z-debug.log

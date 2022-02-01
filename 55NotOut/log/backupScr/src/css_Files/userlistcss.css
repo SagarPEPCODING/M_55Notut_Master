@@ -1,0 +1,114 @@
+.container1 {
+  height: auto;
+  width: 100%;
+  /* background-color: hotpink; */
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+}
+
+.containerOfUsers {
+  /* height: calc(100% - 20%); */
+  width: calc(100% - 10%);
+  border: 2px solid grey;
+  display: flex;
+  flex-direction: row;
+}
+
+.name {
+  width: calc(70% - 50%);
+  border-right: 2px solid grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 1rem;
+  /* border-bottom: 2px solid grey; */
+  height: auto;
+  word-break: break-all;
+}
+
+.email {
+  width: calc(70% - 30%);
+  border-right: 2px solid grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 1rem;
+  /* border-bottom: 2px solid grey; */
+  height: auto;
+  word-break: break-all;
+}
+
+.phonenumber {
+  width: calc(70% - 55%);
+  border-right: 2px solid grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 1rem;
+  /* border-bottom: 2px solid grey; */
+  height: auto;
+  word-break: break-all;
+}
+
+.usertype {
+  width: calc(70% - 45%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 1rem;
+  border-right: 2px solid grey;
+  height: auto;
+  word-break: break-all;
+}
+
+.userdiv {
+  display: flex;
+  /* flex-direction: column; */
+}
+
+.check {
+  width: calc(70% - 55%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 1rem;
+  justify-content: center;
+  /* border-bottom: 2px solid grey; */
+  height: auto;
+  flex-wrap: wrap;
+}
+
+.check {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.accept {
+  font-size: 0.8rem;
+  border: 0.1rem solid rgb(216, 210, 210);
+  border-radius: 3px;
+  background-color: rgb(37, 58, 32);
+  cursor: pointer;
+  color: white;
+}
+
+.accept:hover {
+  background-color: rgb(89, 102, 85);
+}
+
+.reject {
+  font-size: 0.8rem;
+  border: 0.1rem solid rgb(216, 210, 210);
+  border-radius: 3px;
+  background-color: rgb(231, 41, 7);
+  cursor: pointer;
+  color: white;
+}

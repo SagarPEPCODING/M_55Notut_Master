@@ -1,0 +1,136 @@
+.seeallfeaturescontainer.seealljobsprovidedcontainer {
+  width: calc(100% - 20%);
+  display: flex;
+  flex-direction: column;
+}
+.joproviderGreetingcardandfeatures {
+  height: 300px;
+  background: #f1dbbd;
+  /* width: calc(100% - 20%); */
+  margin: 5px;
+}
+
+.alldata {
+  display: flex;
+  flex-direction: row;
+}
+
+.alldata {
+  display: flex;
+  flex-direction: row;
+  /* font-size: 10px; */
+}
+
+img.myimgofjobprovider {
+  width: 50px;
+  height: 50px;
+  margin-left: 2px;
+  margin-top: 5px;
+}
+
+.appu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  background: azure;
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+}
+
+.applicationid {
+  font-size: 13px;
+  margin: 4px;
+}
+
+.jobseeker {
+  font-size: 22px;
+  margin-left: 12px;
+}
+
+.allcontainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.featuresList {
+  /* display: flex; */
+  background: #3c3c3c;
+  color: white;
+  width: calc(100% - 82%);
+  cursor: pointer;
+}
+
+.jobproviderheading {
+  /* margin-top: 0px; */
+  display: flex;
+  color: black;
+  width: 84%;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+}
+
+.crossbtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  width: 16%;
+}
+
+.alldata {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 2px solid white;
+  cursor: pointer;
+  /* font-size: 10px; */
+}
+
+.greetingwithfeaturescard {
+  height: 65px;
+  background: bisque;
+  display: flex;
+  flex-direction: row;
+}
+
+.jobprovidercontentcontainer {
+  width: 100%;
+}
+
+.greeting.morning.evening.noon {
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.greetingtojobprovider {
+  display: flex;
+  margin: 7px;
+}
+
+.nameofjob_provider {
+  font-size: 25px;
+  margin-left: 40px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.postjob {
+  height: 30px;
+  width: max-content;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+}

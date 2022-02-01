@@ -1,0 +1,7 @@
+.css-1fzpoyk img {
+    height: 400px;
+    width: 400px;
+    object-fit: scale-down;
+    display: block;
+    max-height: 100%;
+}

@@ -1,0 +1,280 @@
+.jobfimage {
+  width: 100%;
+  height: calc(100% - 54%);
+}
+
+img.jbimg {
+  width: 100%;
+  height: 100%;
+  padding: 0.2rem;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bodycont {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 72%;
+  background: #f4e4cef0;
+  border-radius: 0.2rem;
+}
+
+.bodycont1 {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.bodycont2 {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.bdqscont1 {
+  display: flex;
+  flex-direction: row;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.cont1JP {
+  font-size: 0.7rem;
+  width: calc(100% / 3);
+}
+
+.cont1CT {
+  font-size: 0.7rem;
+  width: calc(100% / 3);
+}
+
+.cont1CL {
+  font-size: 0.7rem;
+  width: calc(100% / 3);
+}
+
+.bodycont2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.bodycont2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.cont2JT {
+  font-size: 0.7rem;
+  width: calc(100% / 3);
+}
+
+.cont2PA {
+  font-size: 0.7rem;
+  width: calc(100% / 3);
+}
+
+.bdanscont1 {
+  display: flex;
+  flex-direction: row;
+  padding: 0.2rem;
+}
+
+.bodycont2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.bdqscont2 {
+  display: flex;
+  flex-direction: row;
+  font-weight: 700;
+  font-size: 0.7rem;
+}
+
+.bdanscont2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.cont2RE {
+  font-size: 0.7rem;
+  width: calc(100% / 3);
+}
+
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 0.25rem;
+  height: 11rem;
+  background: #f0efefb0;
+}
+
+.cardcontainer.card {
+  height: 18rem;
+  width: 18rem;
+}
+
+.card_container {
+  margin: 10px;
+  background-color: white;
+  box-shadow: 5px 4px 7px 0px dimgrey;
+  border-radius: 0px;
+  cursor: pointer;
+  height: 22rem;
+}
+
+.btncont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: white;
+  width: 8rem;
+  border-radius: 2.2px;
+}
+
+.jbprof {
+  color: cornsilk;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  background: #73b1c5;
+  box-shadow: 0.1px 0.1px 1.3px 1px #8fcadd;
+}
+
+.jbbodyextylo {
+  display: flex;
+}
+
+.widthjb {
+  width: calc(100% / 3);
+}
+
+.margintopjb {
+  margin-top: 2px;
+}
+
+.jblo.widthjb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.jbtype.widthjb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.margintopjb {
+  margin-top: 2px;
+}
+
+.expreq {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.andexreq {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jbprof {
+  margin-top: 10px;
+}
+
+.jbbodyextylo.margintopjb {
+  background: #f8aa058f;
+}
+
+.jbex.widthjb {
+  margin: 0.1rem;
+  background: #ff8c005c;
+  color: white;
+}
+
+.expreq {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.andexreq {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jbtype.widthjb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.1rem;
+  background: #ff8c005c;
+  color: white;
+}
+
+.jblo.widthjb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.1rem;
+  background: #ff8c005c;
+  color: white;
+}
+
+.mevh .rdw-editor-toolbar.toolbarClassName {
+  display: none;
+}
+
+.mevh {
+  width: 100%;
+}
+
+.jbtype.widthjbb {
+  background: #f4ac49f0;
+  margin-top: 2px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homecardmentor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.3rem;
+}
+
+div#rdw-wrapper-6402 {
+  padding-left: 0.8rem;
+}
+
+.public-DraftStyleDefault-block {
+  margin: 0.1em 0;
+}
+
+.mevh {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.mevh .wrapperClassName.rdw-editor-wrapper {
+  padding: 0.2rem;
+}
